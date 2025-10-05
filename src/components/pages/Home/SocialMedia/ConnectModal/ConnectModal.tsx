@@ -2,7 +2,6 @@ import { m } from "framer-motion";
 import { Col, Row } from "react-bootstrap";
 import toast from "react-hot-toast";
 import styles from "./ConnectModal.module.scss";
-import { CommentIcon } from "../../../../../assets/icons/icons";
 
 
 interface propTypes {

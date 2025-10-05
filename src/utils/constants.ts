@@ -43,15 +43,15 @@ export const LIST_CONTENT = {
         {
             to: "portfolio",
         },
-        {
-            to: "social-media",
-        },
-        {
-            to: "testimonials",
-        },
-        {
-            to: "contact",
-        },
+        // {
+        //     to: "social-media",
+        // },
+        // {
+        //     to: "testimonials",
+        // },
+        // {
+        //     to: "contact",
+        // },
     ],
     SOCIAL_MEDIA: [
         {
